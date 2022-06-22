@@ -1,0 +1,7 @@
+pyproject.toml
+setup.cfg
+pkgtest.egg-info/PKG-INFO
+pkgtest.egg-info/SOURCES.txt
+pkgtest.egg-info/dependency_links.txt
+pkgtest.egg-info/top_level.txt
+test_package/src/pkgtester/__init__.py
